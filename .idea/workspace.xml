@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23a8ca62-52c7-4045-9c68-e852e108f3e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/Asteroid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/AstronomicalBody.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/Planet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/PlanetarySystem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/PlanetarySystemTester.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/Star.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/member-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/package-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script-dir/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/serialized-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/type-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework6/Asteroid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework6/AstronomicalBody.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework6/Planet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework6/PlanetarySystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework6/PlanetarySystemTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework6/Star.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Asteroid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AstronomicalBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PlanetarySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PlanetarySystemTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Star.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b2mzlPkFd3ywTvmraUx4VwxW78" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PlanetarySystemTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PlanetarySystemTester" />
+      <module name="Homework6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PlanetarySystemTester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23a8ca62-52c7-4045-9c68-e852e108f3e6" name="Default Changelist" comment="" />
+      <created>1587838826783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587838826783</updated>
+      <workItem from="1587838832663" duration="6148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="746" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587843295239">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="746" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860@0.0.1600.860" timestamp="1587843295239" />
+    <state x="763" y="260" key="FileChooserDialogImpl" timestamp="1587842891564">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="763" y="260" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1587842891564" />
+    <state width="1176" height="103" key="GridCell.Tab.0.bottom" timestamp="1587844450523">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1176" height="103" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1587844450523" />
+    <state width="1176" height="103" key="GridCell.Tab.0.center" timestamp="1587844450523">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1176" height="103" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1587844450523" />
+    <state width="1176" height="103" key="GridCell.Tab.0.left" timestamp="1587844450522">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1176" height="103" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1587844450522" />
+    <state width="1176" height="103" key="GridCell.Tab.0.right" timestamp="1587844450523">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1176" height="103" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1587844450523" />
+  </component>
+</project>
