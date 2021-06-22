@@ -1,6 +1,6 @@
 # Planetary Systems Java Project, CS49J, San Jose State University.
 
-**Classes:
+**Classes:**
 
 - Asteroid: Asteroid, a kind of Astronomical Body, with mass, and sometimes name.
 - Star: Star, a kind of Astronomical Body.
