@@ -1,4 +1,4 @@
-# Planetary Systems Java Project, CS49J, San Jose State University.
+# Astronomical Systems Java Project, CS49J, San Jose State University.
 
 **Classes:**
 
